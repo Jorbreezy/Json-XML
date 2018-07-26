@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="rss-style.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+        <title>
+            Hello jordan3
+        </title>
+        <description>
+            Test
+        </description>
+        <item>
+            <description>
+                Hello World
+                This is a test
+                
+            </description>
+        </item>
+    </channel>
+
+    <channel>
+        <title>
+            Hello jordan1
+        </title>
+        <description>
+            Jordan is the best
+        </description>
+        <item>
+            <description>
+                Foo Foo World
+                This is your Father!!!!
+                
+            </description>
+        </item>
+    </channel>
+
+    <channel>
+        <title>
+            Hello jordan4
+        </title>
+        <description>
+            Flabergasted
+        </description>
+        <item>
+            <description>
+                Poo Poo World
+                This is your Lost Father!!!!
+                
+            </description>
+        </item>
+    </channel>
+</rss>
