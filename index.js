@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
 app.post('/channel/create', (req, res) => {
     const body = req.body;
 
-    const xmlHeader = `<?xml version="1.0" encoding="UTF-8" ?>\n<?xml-stylesheet type="text/css" href="rss-style.css" ?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n</rss>`;
+    const xmlHeader = `<?xml version="1.0" encoding="UTF-8" ?>\n<?xml-stylesheet type="text/css" href="rss-style.css" ?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<title>Versions page RSS Feed</title>\n</rss>`;
 
     const channel = `
     <channel>

@@ -1,71 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/css" href="rss-style.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-
-<<<<<<< HEAD
-
-<channel>
-  <title>Hey</title>
-  <link>http://test.com</link>
-  <description>Check this out!</description>
-  <item>
-    <title>Check out this useful RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>Should give you guys a better understanding of what your tring to accomplish</description>
-  </item>
-</channel>
-<channel>
-  <title>Welcome</title>
-  <link>http://test.com</link>
-  <description>Check this out!</description>
-  <item>
-    <title>Check out this useful RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>Should give you guys a better understanding of what your tring to accomplish</description>
-  </item>
-</channel>
-<channel>
-  <title>Hey Fellow Interns</title>
-  <link>http://test.com</link>
-  <description>Pretty Cool stuff you guys are doing</description>
-  <item>
-    <title>Check out this useful RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>Don't mess this up alright..</description>
-  </item>
-</channel>
-=======
-    <channel>
-        <title>
-            Hello jordan3
-        </title>
-        <description>
-            Test
-        </description>
-        <item>
-            <description>
-                Hello World
-                This is a test
-                
-            </description>
-        </item>
-    </channel>
-
-    <channel>
-        <title>
-            Hello jordan1
-        </title>
-        <description>
-            Jordan is the best
-        </description>
-        <item>
-            <description>
-                Foo Foo World
-                This is your Father!!!!
-                
-            </description>
-        </item>
-    </channel>
+<title>Versions page RSS Feed</title>
 
     <channel>
         <title>
@@ -81,6 +17,21 @@
                 
             </description>
         </item>
+        <description>
+            Flabergasted
+        </description>
+        <item>
+            <description>
+                Poo Poo World
+                This is your Lost Father!!!!
+                
+            </description>
+        </item>
     </channel>
->>>>>>> 4a5ecaaa90cad5dce3d7be18a5655f92eb5d9178
+
+    <channel>
+        <title>
+            Hello jordan4
+        </title>
+    </channel>
 </rss>
