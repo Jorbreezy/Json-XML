@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="rss-style.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+
+<channel>
+  <title>Hey</title>
+  <link>http://test.com</link>
+  <description>Check this out!</description>
+  <item>
+    <title>Check out this useful RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>Should give you guys a better understanding of what your tring to accomplish</description>
+  </item>
+</channel>
+<channel>
+  <title>Welcome</title>
+  <link>http://test.com</link>
+  <description>Check this out!</description>
+  <item>
+    <title>Check out this useful RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>Should give you guys a better understanding of what your tring to accomplish</description>
+  </item>
+</channel>
+<channel>
+  <title>Hey Fellow Interns</title>
+  <link>http://test.com</link>
+  <description>Pretty Cool stuff you guys are doing</description>
+  <item>
+    <title>Check out this useful RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>Don't mess this up alright..</description>
+  </item>
+</channel>
+</rss>
