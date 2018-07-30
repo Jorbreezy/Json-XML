@@ -15,6 +15,13 @@ channel > title {
 	font-weight: bold;
 	margin: 10px 0px;
 }
+
+title{
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+}
+
 channel {
 	width: 728px;
 	margin-left: auto;
