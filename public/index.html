@@ -9,19 +9,31 @@
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="javascripts/script.js" async></script>
+  <link rel="stylesheet" href="style.css">
   <link rel='icon' href='https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwingMDGq73cAhUCMt8KHfimDWwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fxml-file-format-symbol_29611&psig=AOvVaw2i5mMWUxeVw1q-1OTPNDpJ&ust=1532714217967046'>
   <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-  <style>
-    .btn {
-      margin: 5px;
-    }
-    .item{
-      margin: 5px;
-    }
-  </style>
 </head>
-
 <body>
+  <div class="spinner-wrapper">
+      <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+      </div>
+  </div>
+       <script>
+            $(document).ready(function() {
+            //Preloader
+            $(window).on("load", function() {
+            preloaderFadeOutTime = 1900;
+            function hidePreloader() {
+            var preloader = $('.spinner-wrapper');
+            preloader.fadeOut(preloaderFadeOutTime);
+            }
+            hidePreloader();
+            });
+            });
+      </script>
   <center>
     <header>
       <h1>JSON to XML converter</h1>

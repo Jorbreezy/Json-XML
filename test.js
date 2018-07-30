@@ -45,7 +45,7 @@ var obj = {
         "streetAddress": "808 49st",
         "city": "Brooklyn",
         "state": "New York",
-        "zip": 11401
+        "zip": 11401,
     },
     "phone": [
         {

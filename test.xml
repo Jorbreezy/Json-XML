@@ -2,8 +2,6 @@
 <?xml-stylesheet type="text/css" href="rss-style.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <title>Versions page RSS Feed</title>
-
-<<<<<<< HEAD
 <channel>
   <title>Hey what's up guys</title>
   <link>http://test.com</link>
@@ -34,9 +32,6 @@
     <description>Don't mess this up alright..</description>
   </item>
 </channel>
-=======
-=======
->>>>>>> 25dc2bdf97dffc22ea96fba8c86dc1082fe55dea
     <channel>
         <title>
             Hello jordan4
@@ -46,14 +41,10 @@
         </description>
         <item>
             <description>
-<<<<<<< HEAD
                 Hello World
                 This is a test
-=======
                 Poo Poo World
                 This is your Lost Father!!!!
-                
->>>>>>> 25dc2bdf97dffc22ea96fba8c86dc1082fe55dea
             </description>
         </item>
         <description>
