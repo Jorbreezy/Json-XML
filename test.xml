@@ -2,10 +2,8 @@
 <?xml-stylesheet type="text/css" href="rss-style.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
-<<<<<<< HEAD
-
 <channel>
-  <title>Hey</title>
+  <title>Hey what's up guys</title>
   <link>http://test.com</link>
   <description>Check this out!</description>
   <item>
@@ -46,7 +44,6 @@
             <description>
                 Hello World
                 This is a test
-                
             </description>
         </item>
     </channel>
@@ -82,5 +79,4 @@
             </description>
         </item>
     </channel>
->>>>>>> 4a5ecaaa90cad5dce3d7be18a5655f92eb5d9178
 </rss>

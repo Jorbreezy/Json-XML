@@ -19,6 +19,7 @@ channel {
 	width: 728px;
 	margin-left: auto;
 	margin-right: auto;
+	font-family: 'Quicksand', sans-serif;
 }
 channel > item {
 	background-color: #ffffff;

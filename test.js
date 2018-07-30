@@ -35,17 +35,17 @@ var server = app.listen(8081, function () {
 var js2xmlparser = require("js2xmlparser");
  
 var obj = {
-    "firstName": "Michal",
-    "lastName": "Idzik",
-    "dateOfBirth": new Date(2000, 9, 10),
+    "firstName": "Bob",
+    "lastName": "Builder",
+    "dateOfBirth": new Date(1989, 10, 5),
     "address": {
         "@": {
             "type": "home"
         },
-        "streetAddress": "808 43st",
+        "streetAddress": "808 49st",
         "city": "Brooklyn",
         "state": "New York",
-        "zip": 11232
+        "zip": 11401
     },
     "phone": [
         {
